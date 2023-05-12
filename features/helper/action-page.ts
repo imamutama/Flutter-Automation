@@ -130,16 +130,6 @@ class Action {
     //     }
     // }
 
-    // async scrollUpToElement(locator: string) {
-    //     const maxSwipeCount = 7
-    //     for (let i = 0; i < maxSwipeCount; i++) {
-    //         if (await this.isVisibleElement(locator)) {
-    //             return
-    //         }
-    //         await this.swipeDown()
-    //     }
-    // }
-
     // async scrollDownAndTapText(text: string) {
     //     const maxSwipeCount = 7
     //     for (let i = 0; i < maxSwipeCount; i++) {
