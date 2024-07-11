@@ -19,6 +19,9 @@
     },
     "include": [
         "./config/**/*.ts",
-        "./features/**/*.ts"
+        "./features/**/*.ts",
+        "./src/**/**/*.ts",
+        "./test/**/**/*.ts",
+        "./src/**/*.ts"
     ]
 }

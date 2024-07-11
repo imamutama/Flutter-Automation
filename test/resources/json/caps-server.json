@@ -1,0 +1,13 @@
+{
+    "platformName": "Android",
+    "maxInstances": 1,
+    "appium:deviceName": "Pixel_4_Android_12",
+    "appium:platformVersion": "13.0",
+    "appium:udid": "f58351d9",
+    "appium:automationName": "Flutter",
+    "appium:app": "/home/super/Documents/apk/app-debug.apk",
+    "appium:newCommandTimeout": 240,
+    "appium:noReset": false,
+    "appium:autoGrantPermissions":true
+  }
+  
